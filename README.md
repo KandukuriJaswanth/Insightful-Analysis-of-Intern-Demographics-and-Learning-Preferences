@@ -1,2 +1,5 @@
 # Insightful-Analysis-of-Intern-Demographics-and-Learning-Preferences
 This project analyzes intern data from Innomatics using Python. It explores demographics, professional backgrounds, skills, and course enrollments to derive insights that support strategic decision-making in education and training programs.
+
+# **Project Summary**
+This project focuses on analyzing intern data from Innomatics using Python libraries such as Pandas, Matplotlib, and Seaborn. The dataset includes information about interns’ age, current profession, graduation year, skills, and course enrollment details. Data cleaning and preprocessing were conducted to ensure consistency and clarity. Through exploratory data analysis, trends in skill preferences, course selection, gender distribution, and geographic spread were identified. Visualizations provided deeper insights into intern demographics and learning interests. The analysis supports informed decisions for enhancing course offerings and improving outreach strategies in educational institutions.
